@@ -7,3 +7,5 @@
  }
 
  // Aquí tú código
+
+ console.log(muestraGato())
